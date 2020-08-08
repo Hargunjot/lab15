@@ -1,0 +1,36 @@
+#mouse_out_outside{
+    border-style: solid;
+    width: 40%;
+    float: left;
+    padding: 15px;
+    background-color: lightblue;
+    
+    
+}
+#mouse_out_inside{
+    margin: auto;
+    text-align: center; 
+    border-style: solid;
+    width: 50%;
+    background-color: yellow;
+     
+}
+
+#mouse_leave_outside{
+
+    border-style: solid;
+    float: left;
+    width: 40%;
+    padding: 15px;
+    background-color: lightblue;
+    position: static;
+
+}
+#mouse_leave_inner{
+    margin: auto;
+    text-align: center; 
+    border-style: solid;
+    width: 50%;
+    background-color: yellow;
+
+}
